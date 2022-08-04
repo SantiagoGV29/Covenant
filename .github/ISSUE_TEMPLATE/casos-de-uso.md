@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
+name: Casos de uso
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: ''
+assignees: SantiagoGV29
 
 ---
 
