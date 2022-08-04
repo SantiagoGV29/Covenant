@@ -7,7 +7,7 @@ assignees: SantiagoGV29
 
 ---
 
-# Titulo
-# Id
-# Descripción
-# Precondiciones
+# **Titulo**
+# **Id**
+# **Descripción**
+# **Precondiciones**
